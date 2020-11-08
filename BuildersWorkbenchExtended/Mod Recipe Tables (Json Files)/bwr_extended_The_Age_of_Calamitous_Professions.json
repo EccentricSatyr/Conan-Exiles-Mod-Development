@@ -1,0 +1,24 @@
+[
+	{
+		"RowName": "Stormhold-Peasant",
+		"ThrallType": 0,
+		"ThrallTier": 4,
+		"ThrallProfession": "Mason",
+		"BonusRecipes": [],
+		"CraftingGroups": [ 89104, 900041, 959100000, 959100001 ],
+		"StatTemplate": "Artisan Base",
+		"StatModifierTemplate": [
+			"Craft Speed 4",
+			"Craft Less Mats 2",
+			"Tier 4 Mods"
+		],
+		"ThrallStatModifierTemplate": [
+			"Thrall_T4"
+		],
+		"Icon": "/Game/UI/Textures/Icons/icon_thrall_mason.icon_thrall_mason",
+		"BuffClass":
+		{
+			"AssetLongPathname": ""
+		}
+	}
+]
