@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExilesFixes",
+	"description": "Various Fixes and Edits designed for the Eccentric Exiles Server.\n\nThis is a personal edit so is not recommended for other users. See change notes for list of edits.\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "updated for hotfix\n-added a new feat to unlock added recipes",
+	"author": "Eccentric Satyr",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 4,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2159200945",
+	"steamVisibility": 0,
+	"folderName": "EccentricExilesFixes",
+	"revisionNumber": 255795,
+	"snapshotId": 26919
+}
