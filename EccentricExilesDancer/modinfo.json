@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExilesDancer",
+	"description": "Changes dancers to only play specific animations (based on popularity on the server)\n\nFor the same mod (without the possible changes from a servers decisions) use:\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2096866456] DancerDancechange [/url]\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "fixed description",
+	"author": "Eccentric Satyr",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2162019340",
+	"steamVisibility": 0,
+	"folderName": "EccentricExilesDancer",
+	"revisionNumber": 253050,
+	"snapshotId": 26835
+}
