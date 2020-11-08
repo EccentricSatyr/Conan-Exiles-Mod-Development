@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExilesSlaver",
+	"description": "Designed for the Eccentric Exiles Private Server.\n\nAdds a new \"crafting station\" (a cage) that allows you to \"sell\" thralls. This gives you an item that can then be used with Pippi Thespians to trade for server currency (or for in game items).\n\nRequires Pippi or another method of converting the gained item. This mod is designed for Pippi as you can build an admin thrall slaver camp on your server using Pippi Thespians.\n\nAn Admin MUST place the cage base in the world somewhere so that players can build the cages on top. This mod will do nothing without the cage base. All players may build cages which are one use items for selling thralls. (Admins may place as many cage bases as they want)\n\nAdmin MUST also place the Relic Hunter Slaver Camp workstation in the world. This is where you craft the cages and it puts a map marker for your players.\n\nA Pippi Thespian will be required to give the players the Scroll (Profesional Slaver) to learn the feat needed to craft cages.\n\n!!! Can not sell Special Thralls and Mod Thralls !!!\n\n-- All items can be found in the admin spawn menu by searching \"Slave\" --\n\nIf you find a non-modded thrall that can not be sold, or one that sells for the wrong teir of credit, let me know in the comments below.\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "rebuilt for hotfix\n- a couple recipes needed readded",
+	"author": "Eccentric Satyr",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 2,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2169925926",
+	"steamVisibility": 0,
+	"folderName": "EccentricExilesSlaver",
+	"revisionNumber": 255795,
+	"snapshotId": 26919
+}
