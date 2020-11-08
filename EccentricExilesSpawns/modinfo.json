@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExilesSpawns",
+	"description": "Purge Thrall Spawning designed for the Eccentric Exiles Server.\n\nSince Update 2.1, Purge Thralls are not as important so this mod may not be needed on your server. It will still be updated as we still use it :) \n\nThis adds MOST of the Purge only spawns into the same spawn tables as the level 4 thralls.\n\nRelic Hunter Purge Thralls now only spawn inside the Relic Hunter Robber Areas:\n- 1/15 chance for each robber to be a named purge thrall (professional thrall)\n- 3/5 chance for the boss to be a named purge thrall (Archer, Fighter, or Taskmaster)\n\nIf you find a Purge Thrall in an odd area (wrong faction) or have any other bug reports, let me know in the comments below.\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "desc edit, no big deal ;)",
+	"author": "Eccentric Satyr",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2159134365",
+	"steamVisibility": 0,
+	"folderName": "EccentricExilesSpawns",
+	"revisionNumber": 253050,
+	"snapshotId": 26835
+}
