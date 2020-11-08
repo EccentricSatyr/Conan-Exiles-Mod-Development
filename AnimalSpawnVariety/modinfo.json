@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExiles - AnimalSpawnVariety",
+	"description": "Original Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1578093492\nOriginal Author: https://steamcommunity.com/sharedfiles/filedetails/?id=1578093492\n\nspandrel5353  [author] 15 Dec, 2019 @ 3:33pm \nI've uploaded the current version of this mod to the nexus, as well as all the uassets used to compile it in the editor. Anyone is free to download it, modify it, and upload and share their version as they see fit. I don't expect that any update will be strictly necessary unless the vanilla game weighted tables are drastically changed, but it will be there if needed.\n\nThis is the edit of Animal Spawn Variety for the Eccentric Exiles Private Server. Please use the original mod or your own edit as this will not be balanced or supported outside of the Eccentric Exiles Server.\n\nThank you to spandrel5353 for making such a great mod and for allowing others such as myself to edit it :)\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "rebuilt with new dev kit (2.1)",
+	"author": "spandrel5353 (Original Author), Eccentric Satyr (Edit)",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2173038351",
+	"steamVisibility": 0,
+	"folderName": "AnimalSpawnVariety",
+	"revisionNumber": 253050,
+	"snapshotId": 26835
+}
