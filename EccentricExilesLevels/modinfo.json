@@ -1,0 +1,16 @@
+{
+	"name": "EccentricExilesLevels",
+	"description": "Attribute and Feat Points System designed for the Eccentric Exiles Server.\n\nIncreased Max lvl to 70 (to allow for a stronger character without too much work)\n\nDesigned for a 50 40 40 30 30 30 20 build. However, feel free to experiment with different builds.\n\n[h1] Modding and Server Discord [/h1]\nI have a discord server for both my mods, and my servers. Bug reports can be sent to me on discord too. Joining discord does not auto give you access to the server, but I may let you access depending on who you are.\n\n[url=https://discord.gg/eHKNyBGRKb] Discord Invite Link [/url]\n\n[h1]Direct Download[/h1]\nAll my mods are available for direct download from my discord server. Only the most recent update will be saved.",
+	"changeNote": "Increased Max lvl and increased max attribute points.",
+	"author": "Eccentric Satyr",
+	"authorUrl": "",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2158063549",
+	"steamVisibility": 0,
+	"folderName": "EccentricExilesLevels",
+	"revisionNumber": 255795,
+	"snapshotId": 26931
+}
